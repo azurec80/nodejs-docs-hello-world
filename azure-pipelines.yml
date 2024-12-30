@@ -1,8 +1,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool:  default
+  
 
 steps:
 # Step 1: Install Node.js
